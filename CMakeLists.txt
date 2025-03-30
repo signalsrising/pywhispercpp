@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.4...3.18)
+cmake_minimum_required(VERSION 3.5...3.27)
 project(pywhispercpp)
 
 add_subdirectory(pybind11)
